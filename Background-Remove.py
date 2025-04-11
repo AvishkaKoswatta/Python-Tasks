@@ -1,6 +1,8 @@
 from rembg import remove
 from PIL import Image
 
+
+
 # Input and output file paths
 input_path = 'image.jpg'
 output_path = 'image.png'
